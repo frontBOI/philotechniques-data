@@ -1,77 +1,77 @@
 [
   {
     "name": "Nouilles au porc",
-    "image": "https://api.methem.fr/uploads/Recettes_de_cuisine_du_monde_eb6285a22f.jpg",
+    "image": "https://raw.githubusercontent.com/frontBOI/philotechniques-data/master/img/13.jpg",
     "type": "Asiatique"
   },
   {
     "name": "Bœuf bourguignon",
-    "image": "https://api.methem.fr/uploads/Recettes_de_cuisine_du_monde_eb6285a22f.jpg",
+    "image": "https://raw.githubusercontent.com/frontBOI/philotechniques-data/master/img/15.jpg",
     "type": "Français"
   },
   {
     "name": "Mini tacos",
-    "image": "https://api.methem.fr/uploads/mini_tacos_H2_e2f4e97cfa.jpg",
+    "image": "https://raw.githubusercontent.com/frontBOI/philotechniques-data/master/img/11.jpg",
     "type": "Mexicain"
   },
   {
     "name": "Pâtes à l'aspect étrange",
-    "image": "https://api.methem.fr/uploads/image_1029700_20241207_ob_a01936_20241008_201453_c332867f04.jpg",
+    "image": "https://raw.githubusercontent.com/frontBOI/philotechniques-data/master/img/9.jpg",
     "type": "Français"
   },
   {
     "name": "Chakchouka",
-    "image": "https://api.methem.fr/uploads/meilleures_recettes_du_monde_d42701efc6.jpg",
+    "image": "https://raw.githubusercontent.com/frontBOI/philotechniques-data/master/img/10.jpg",
     "type": "Asiatique"
   },
   {
     "name": "Pois chiches à la tomate",
-    "image": "https://api.methem.fr/uploads/i36528_ragout_minute_de_haricots_blancs_09798c61ce.jpg",
+    "image": "https://raw.githubusercontent.com/frontBOI/philotechniques-data/master/img/8.jpg",
     "type": "Africain"
   },
   {
     "name": "Poisson à la béarnaise",
-    "image": "https://api.methem.fr/uploads/curry_thai_1_773x773_jpg_e5ed1c50fa.webp",
+    "image": "https://raw.githubusercontent.com/frontBOI/philotechniques-data/master/img/5.webp",
     "type": "Français"
   },
   {
     "name": "Gratin de brocolis",
-    "image": "https://api.methem.fr/uploads/gratin_de_pommes_de_terre_brocolis_et_champignons_fccm_1200_9135ca27c5.webp",
+    "image": "https://raw.githubusercontent.com/frontBOI/philotechniques-data/master/img/7.webp",
     "type": "Français"
   },
   {
     "name": "Poulet bien épicé",
-    "image": "https://api.methem.fr/uploads/picture_6913413b5d.jpeg",
+    "image": "https://raw.githubusercontent.com/frontBOI/philotechniques-data/master/img/12.jpeg",
     "type": "Mexicain"
   },
   {
     "name": "Lasagnes",
-    "image": "https://api.methem.fr/uploads/26978903_jpg_0038cad87e.webp",
+    "image": "https://raw.githubusercontent.com/frontBOI/philotechniques-data/master/img/3.webp",
     "type": "Italien"
   },
   {
     "name": "Poulet à la moutarde",
-    "image": "https://api.methem.fr/uploads/escalope_de_poulet_a_la_moutarde_webp_1005ccaaee.jpeg",
+    "image": "https://raw.githubusercontent.com/frontBOI/philotechniques-data/master/img/6.jpeg",
     "type": "Italien"
   },
   {
     "name": "Saumon teryaki",
-    "image": "https://api.methem.fr/uploads/40024130_jpg_ce050a9dc9.webp",
+    "image": "https://raw.githubusercontent.com/frontBOI/philotechniques-data/master/img/4.webp",
     "type": "Asiatique"
   },
   {
     "name": "Œuf au plat",
-    "image": "https://api.methem.fr/uploads/Recettes_de_plats_rapides_46c9bdad57.jpg",
+    "image": "https://raw.githubusercontent.com/frontBOI/philotechniques-data/master/img/14.jpg",
     "type": "Français"
   },
   {
     "name": "Quiche à l'omelette",
-    "image": "https://api.methem.fr/uploads/40_recettes_pour_apprendre_a_cuisiner_dad878257b.jpeg",
+    "image": "https://raw.githubusercontent.com/frontBOI/philotechniques-data/master/img/1.jpeg",
     "type": "Mexicain"
   },
   {
     "name": "Falafels",
-    "image": "https://api.methem.fr/uploads/571_w350h250c1cx1500cy1000_5cb31cd5ed.jpg",
+    "image": "https://raw.githubusercontent.com/frontBOI/philotechniques-data/master/img/2.jpg",
     "type": "Iranien"
   }
 ]
